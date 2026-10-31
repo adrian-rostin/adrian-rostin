@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://adrianrostin.de"><img src="https://img.shields.io/website?label=adrianrostin.de&style=for-the-badge&url=https%3A%2F%2Fadrianrostin.de" alt="adrianrostin.de" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=adrian-rostin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## This is me
@@ -31,5 +31,3 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&locale=en" alt="GitHub stats" /></p>
